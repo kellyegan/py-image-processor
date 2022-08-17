@@ -1,0 +1,1 @@
+print("py-image-processor")
